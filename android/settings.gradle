@@ -1,0 +1,3 @@
+rootProject.name = 'AddressSelect'
+
+include ':app'
